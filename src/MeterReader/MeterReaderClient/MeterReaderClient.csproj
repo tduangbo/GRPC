@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>dotnet-MeterReaderClient-AF547404-CCAA-4056-9A40-E40B3D5B68D7</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.13.0" />
+    <PackageReference Include="Grpc.Net.ClientFactory" Version="2.32.0" />
+    <PackageReference Include="Grpc.Tools" Version="2.32.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.11.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="..\MeterReaderWeb\Protos\enums.proto" GrpcServices="None">
+      <Link>Protos\enums.proto</Link>
+    </Protobuf>
+    <Protobuf Include="..\MeterReaderWeb\Protos\MeterReader.proto" GrpcServices="Client">
+      <Link>Protos\MeterReader.proto</Link>
+    </Protobuf>
+  </ItemGroup>
+</Project>

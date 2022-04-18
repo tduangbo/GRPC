@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MeterReaderWeb
+build_property.ProjectDir = C:\Users\Me\Documents\Asp.net\GRPC_PLURAL_SIGHT\MeterReader\src\MeterReader\MeterReaderWeb\

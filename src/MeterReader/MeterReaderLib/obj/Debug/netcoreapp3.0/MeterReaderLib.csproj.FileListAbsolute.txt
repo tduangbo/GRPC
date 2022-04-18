@@ -1,0 +1,11 @@
+C:\Users\Me\Documents\Asp.net\GRPC_PLURAL_SIGHT\MeterReader\src\MeterReader\MeterReaderLib\bin\Debug\netcoreapp3.0\MeterReaderLib.deps.json
+C:\Users\Me\Documents\Asp.net\GRPC_PLURAL_SIGHT\MeterReader\src\MeterReader\MeterReaderLib\bin\Debug\netcoreapp3.0\MeterReaderLib.dll
+C:\Users\Me\Documents\Asp.net\GRPC_PLURAL_SIGHT\MeterReader\src\MeterReader\MeterReaderLib\bin\Debug\netcoreapp3.0\MeterReaderLib.pdb
+C:\Users\Me\Documents\Asp.net\GRPC_PLURAL_SIGHT\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Me\Documents\Asp.net\GRPC_PLURAL_SIGHT\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.AssemblyInfoInputs.cache
+C:\Users\Me\Documents\Asp.net\GRPC_PLURAL_SIGHT\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.AssemblyInfo.cs
+C:\Users\Me\Documents\Asp.net\GRPC_PLURAL_SIGHT\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.csproj.CoreCompileInputs.cache
+C:\Users\Me\Documents\Asp.net\GRPC_PLURAL_SIGHT\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\staticwebassets\MeterReaderLib.StaticWebAssets.Manifest.cache
+C:\Users\Me\Documents\Asp.net\GRPC_PLURAL_SIGHT\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.RazorTargetAssemblyInfo.cache
+C:\Users\Me\Documents\Asp.net\GRPC_PLURAL_SIGHT\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.dll
+C:\Users\Me\Documents\Asp.net\GRPC_PLURAL_SIGHT\MeterReader\src\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.pdb
